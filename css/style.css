@@ -1410,7 +1410,7 @@ padding-bottom: 33px;
      border-radius: 16px;
 }
 .text-img{
-     width: 700px;
+     max-width: 700px;
 }
 .logo{
      width: 400px;
