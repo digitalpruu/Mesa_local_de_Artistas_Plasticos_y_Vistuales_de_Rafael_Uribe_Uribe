@@ -8,7 +8,7 @@
   padding-left: 10px;
 }
 .nav-container nav .logo-nav img {
-  width: 10vw;
+  width: 20vw;
 }
 .nav-container nav .menu {
   display: flex;
@@ -63,12 +63,12 @@ main .about-us .about-us-text {
   width: 50%;
 }
 main .about-us .about-us-text h2 {
-  font-size: 4rem;
+  font-size: 5rem;
   font-weight: bold;
   padding-bottom: 30px;
 }
 main .about-us .about-us-text p {
-  font-size: 2rem;
+  font-size: 3rem;
   padding: 10px 30px;
 }
 main .about-us .about-us-img {
@@ -110,5 +110,5 @@ footer .social-media .social-icons a img:hover {
   transform: scale(1.1);
 }
 footer .logo-footer img {
-  width: 15vw;
+  width: 30vw;
 }/*# sourceMappingURL=desktop.css.map */
